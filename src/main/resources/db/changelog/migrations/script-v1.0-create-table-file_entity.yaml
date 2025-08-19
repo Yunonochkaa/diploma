@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: create-table-file_entity
-      author: Maluev Artem
+      author: cat
       changes:
         - createTable:
             tableName: file_entity
